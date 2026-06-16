@@ -6,7 +6,7 @@ I build things across machine learning, full-stack web, and iOS, and I like turn
 
 - 🔭 Currently working on ML and full-stack projects
 - 🌱 Always learning something new in ML, systems, and product engineering
-- 💬 Ask me about Python, TypeScript/Next.js, or Swift
+- 💬 Ask me anything
 
 ### Featured Projects
 
