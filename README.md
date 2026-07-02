@@ -10,6 +10,7 @@ I build things across machine learning, full-stack web, and iOS, and I like turn
 
 ### Featured Projects
 
+- [**AudioMark**](https://github.com/jaineelmodi11/audiomark) - A better music player optimized for dancers. Over 500 users. Rewriting in Swift. *(Dart)*
 - [**MovieMatchApp**](https://github.com/jaineelmodi11/MovieMatchApp) - iOS swipe-based movie recommender that learns your taste from your swipes. *(Swift)*
 - [**Tossit 2.0**](https://github.com/jaineelmodi11/Tossit-2.0) - Smart waste-classification web app with an ONNX ML backend. *(Next.js · Firebase · TypeScript)*
 - [**MiniLM Fine-Tuned (SNLI/MNLI)**](https://github.com/jaineelmodi11/MiniLM-FineTuned-SNLI-MNLI) - Fine-tuned all-MiniLM-L6-v2 for stronger NLI embeddings. *(Python)*
