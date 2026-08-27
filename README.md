@@ -10,11 +10,17 @@ I build things across machine learning, full-stack web, and iOS, and I like turn
 
 ### Featured Projects
 
+- [**section_loop**](https://github.com/jaineelmodi11/section_loop) - Player-agnostic A–B section looping for audio apps, extracted from AudioMark. *(Dart)*
 - [**AudioMark**](https://github.com/jaineelmodi11/audiomark) - A better music player optimized for dancers. Over 5000 users. Rewriting in Swift. *(Dart)*
 - [**MovieMatchApp**](https://github.com/jaineelmodi11/MovieMatchApp) - iOS swipe-based movie recommender that learns your taste from your swipes. *(Swift)*
 - [**Tossit 2.0**](https://github.com/jaineelmodi11/Tossit-2.0) - Smart waste-classification web app with an ONNX ML backend. *(Next.js · Firebase · TypeScript)*
 - [**MiniLM Fine-Tuned (SNLI/MNLI)**](https://github.com/jaineelmodi11/MiniLM-FineTuned-SNLI-MNLI) - Fine-tuned all-MiniLM-L6-v2 for stronger NLI embeddings. *(Python)*
 - [**recsend CLI**](https://github.com/jaineelmodi11/recsend-developer-focused-CLI) - Developer-focused CLI for simulating swipes and fetching recommendations. *(Python)*
+
+### Open Source Contributions
+
+- **[vercel/next.js](https://github.com/vercel/next.js)** (142k ★) - opened two PRs adding missing error-documentation pages, found by diffing every `/docs/messages/` URL the runtime emits against the pages that actually exist: [#97559](https://github.com/vercel/next.js/pull/97559) (`cache-components`) · [#97560](https://github.com/vercel/next.js/pull/97560) (`nested-middleware`)
+- **[section_loop](https://github.com/jaineelmodi11/section_loop)** - author and maintainer. A–B section looping for Dart/Flutter audio apps, with the seek-storm and queue-stall bugs handled and covered by tests.
 
 ### Tech I work with
 
@@ -26,11 +32,13 @@ I build things across machine learning, full-stack web, and iOS, and I like turn
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
