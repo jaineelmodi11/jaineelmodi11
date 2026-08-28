@@ -2,7 +2,7 @@
 
 ### Computer Science student @ Queen's University
 
-I build things across machine learning, full-stack web, and iOS, and I like turning ideas into shipped products.
+I build things across machine learning, full-stack web, and LLM agent tooling, and I like turning ideas into shipped products.
 
 - 🔭 Currently working on ML and full-stack projects
 - 🌱 Always learning something new in ML, systems, and product engineering
