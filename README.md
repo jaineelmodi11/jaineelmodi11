@@ -59,3 +59,4 @@ I build things across machine learning, full-stack web, and iOS, and I like turn
 - 🌐 Portfolio: [jaineelmodi.com](https://jaineelmodi.com)
 - 💼 LinkedIn: [linkedin.com/in/jaineelmodi](https://www.linkedin.com/in/jaineelmodi)
 - 📫 Email: [jaineelmodi04@gmail.com](mailto:jaineelmodi04@gmail.com)
+- 🎓 School: [22RSW2@queensu.ca](mailto:22RSW2@queensu.ca)
