@@ -10,6 +10,7 @@ I build things across machine learning, full-stack web, and LLM agent tooling, a
 
 ### Featured Projects
 
+- **[Vision](https://github.com/jaineelmodi11/vision)** - Simulated market of 326 personas across 20 cities finds the problem your product actually solves, then a multi-agent investment committee argues and votes on whether it is worth funding in a 3D boardroom. Reached the final round of judging at HackTheNorth 2026. *(Next.js · TypeScript · Tailwind · Three.js · Gemini API · ElevenLabs)*
 - [**section_loop**](https://pub.dev/packages/section_loop) - Player-agnostic A-B section looping for audio apps, [published on pub.dev](https://pub.dev/packages/section_loop) with a [live demo](https://jaineelmodi11.github.io/section_loop/). *(Dart)*
 - [**AudioMark**](https://github.com/jaineelmodi11/audiomark) - A better music player optimized for dancers. Over 5000 users. Rewriting in Swift. *(Dart)*
 - [**MovieMatchApp**](https://github.com/jaineelmodi11/MovieMatchApp) - iOS swipe-based movie recommender that learns your taste from your swipes. *(Swift)*
