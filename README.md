@@ -8,11 +8,6 @@ I build things across machine learning, full-stack web, and LLM agent tooling, a
 - 🌱 Always learning something new in ML, systems, and product engineering
 - 💬 Ask me anything
 
-### Research
-
-- [**Anemia screening from eyelid photos**](https://github.com/Mariaakhtar0035/iris-anemia-screening/tree/jaineel) - ongoing ML research with RBC Borealis's Let's SOLVE it program.
-- **Queen's University, RISE Lab** - research on how multi-agent LLM coding systems fail.
-
 ### Featured Projects
 
 - [**Vision**](https://github.com/jaineelmodi11/vision) - Simulated market and AI committee decide if your startup is fundable, Hack the North 2026 final round. *(TypeScript)*
@@ -22,6 +17,11 @@ I build things across machine learning, full-stack web, and LLM agent tooling, a
 - [**Tossit 2.0**](https://github.com/jaineelmodi11/Tossit-2.0) - Smart waste-classification web app with an ONNX ML backend. *(Next.js · Firebase · TypeScript)*
 - [**MiniLM Fine-Tuned (SNLI/MNLI)**](https://github.com/jaineelmodi11/MiniLM-FineTuned-SNLI-MNLI) - Fine-tuned all-MiniLM-L6-v2 for stronger NLI embeddings. *(Python)*
 - [**recsend CLI**](https://github.com/jaineelmodi11/recsend-developer-focused-CLI) - Developer-focused CLI for simulating swipes and fetching recommendations. *(Python · Ruby)*
+
+### Research
+
+- [**Anemia screening from eyelid photos**](https://github.com/Mariaakhtar0035/iris-anemia-screening/tree/jaineel) - ongoing ML research with RBC Borealis's Let's SOLVE it program.
+- **Queen's University, RISE Lab** - research on how multi-agent LLM coding systems fail.
 
 ### Open Source Contributions
 
