@@ -4,9 +4,14 @@
 
 I build things across machine learning, full-stack web, and LLM agent tooling, and I like turning ideas into shipped products.
 
-- 🔭 Currently working on ML and full-stack projects
+- 🔭 Currently working on anemia screening research with RBC Borealis's Let's SOLVE it program
 - 🌱 Always learning something new in ML, systems, and product engineering
 - 💬 Ask me anything
+
+### Research
+
+- [**Anemia screening from eyelid photos**](https://github.com/Mariaakhtar0035/iris-anemia-screening/tree/jaineel) *(ongoing, RBC Borealis Let's SOLVE it)* - reproduced two published classifiers that read anemia from a photo of the inner eyelid: a ResNet50 on CP-AnemiC (85.1% vs 84.79% reported) and a ViT on Eyes-Defy-Anemia (95.6% vs 98.47%). Both papers test on photos the model already saw. With a clean split the ViT drops to 88.5%, level with predicting "anemic" for every Indian patient, and within India it ranks patients at chance (AUROC 0.53). *(Python · PyTorch)*
+- **Queen's University, RISE Lab** *(Sept 2025 - Jan 2026)* - traced failures in multi-agent LLM coding systems to the agent and step that break a repair, and built a PyTorch repair pipeline that lifted Qwen2.5-Coder pass@1 on HumanEval by 12.8 points.
 
 ### Featured Projects
 
